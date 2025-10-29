@@ -6,3 +6,5 @@
 
 **What I learned**
 - Splitting Components;
+- Component Categories;
+- Component Compostion;
