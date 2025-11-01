@@ -7,4 +7,6 @@
 **What I learned**
 - Splitting Components;
 - Component Categories;
-- Component Compostion;
+- Component Composition;
+- Passing Elements as Props(Alternative to children);
+- Props as a Component API;
