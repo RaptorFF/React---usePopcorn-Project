@@ -10,4 +10,4 @@
 - Component Composition;
 - Passing Elements as Props(Alternative to children);
 - Props as a Component API;
-- useEffect Hook;
+- useEffect Hook and useEffect Dependency Array;
