@@ -11,3 +11,4 @@
 - Passing Elements as Props(Alternative to children);
 - Props as a Component API;
 - useEffect Hook and useEffect Dependency Array;
+- useEffect Cleanup Function;
