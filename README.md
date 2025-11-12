@@ -12,3 +12,4 @@
 - Props as a Component API;
 - useEffect Hook and useEffect Dependency Array;
 - useEffect Cleanup Function;
+- useRef Hook;
